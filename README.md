@@ -1,2 +1,1 @@
-# NPS
-Dumb NPS
+Just a dumb nps nothing special
